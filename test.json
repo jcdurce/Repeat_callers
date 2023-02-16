@@ -1,0 +1,76 @@
+[
+    {
+        "id": "00u107qfwp42sKdF50h8",
+        "status": "ACTIVE",
+        "created": "2021-07-05T16:50:17.000Z",
+        "activated": "2021-07-05T16:51:52.000Z",
+        "statusChanged": "2023-02-15T20:05:13.000Z",
+        "lastLogin": "2023-02-15T20:08:22.000Z",
+        "lastUpdated": "2023-02-15T20:05:13.000Z",
+        "passwordChanged": "2023-02-15T20:05:13.000Z",
+        "type": {
+            "id": "otyadzzgb9XcujCFS0h7"
+        },
+        "profile": {
+            "firstName": "Voice",
+            "lastName": "MFA",
+            "preferredLanguage": "fr",
+            "mobilePhone": null,
+            "bngfReferenceId": "BF390284AF3AAEA883FECC1A8D759371067FCCC223EF11EB80669D4B9B208388",
+            "bngfIdentitySource": "MCP",
+            "secondEmail": null,
+            "locale": "fr_CA",
+            "login": "voicemfa+001@bnc.ca",
+            "email": "Iamxtests@bnc.ca"
+        },
+        "credentials": {
+            "password": {},
+            "provider": {
+                "type": "OKTA",
+                "name": "OKTA"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://nbc.oktapreview.com/api/v1/users/00u107qfwp42sKdF50h8"
+            }
+        }
+    },
+    {
+        "id": "00ue3k1frwNeoY1Tp0h7",
+        "status": "ACTIVE",
+        "created": "2018-02-21T17:39:11.000Z",
+        "activated": "2018-02-21T17:39:12.000Z",
+        "statusChanged": "2018-02-21T17:39:12.000Z",
+        "lastLogin": "2023-02-14T17:16:35.000Z",
+        "lastUpdated": "2022-03-28T01:04:45.000Z",
+        "passwordChanged": "2022-03-28T01:04:45.000Z",
+        "type": {
+            "id": "otyadzzgb9XcujCFS0h7"
+        },
+        "profile": {
+            "firstName": "Sarina",
+            "lastName": "Mirelez",
+            "preferredLanguage": "fr",
+            "mobilePhone": null,
+            "bngfReferenceId": "BF390284AF3AAEA883FECC1A8D759371067FCCC223EF11EB80669D4B9B208388",
+            "bngfIdentitySource": "MCP",
+            "secondEmail": null,
+            "locale": "fr_CA",
+            "login": "sbip2.test25+51+TI@gmail.com",
+            "email": "sbip2.test25+51+TI@gmail.com"
+        },
+        "credentials": {
+            "password": {},
+            "provider": {
+                "type": "OKTA",
+                "name": "OKTA"
+            }
+        },
+        "_links": {
+            "self": {
+                "href": "https://nbc.oktapreview.com/api/v1/users/00ue3k1frwNeoY1Tp0h7"
+            }
+        }
+    }
+]
